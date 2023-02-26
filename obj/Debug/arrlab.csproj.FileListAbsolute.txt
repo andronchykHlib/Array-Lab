@@ -1,0 +1,7 @@
+D:\univ\ПАЛМ\arrlab\arrlab\bin\Debug\arrlab.exe
+D:\univ\ПАЛМ\arrlab\arrlab\bin\Debug\arrlab.pdb
+D:\univ\ПАЛМ\arrlab\arrlab\obj\Debug\arrlab.csproj.AssemblyReference.cache
+D:\univ\ПАЛМ\arrlab\arrlab\obj\Debug\arrlab.csproj.SuggestedBindingRedirects.cache
+D:\univ\ПАЛМ\arrlab\arrlab\obj\Debug\arrlab.csproj.CoreCompileInputs.cache
+D:\univ\ПАЛМ\arrlab\arrlab\obj\Debug\arrlab.exe
+D:\univ\ПАЛМ\arrlab\arrlab\obj\Debug\arrlab.pdb

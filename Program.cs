@@ -53,17 +53,17 @@ namespace arrlab
 
             void FindTwoMaxValues(int[] arr)
             {
-                int max1 = int.MinValue;
-                int max2 = int.MinValue;
+                int max1 = arr[0];
+                int max2 = arr[0];
 
-                foreach (int number in arr)
+                for (int i = 1; i < arr.Length; i++)
                 {
-                    if (number > max1) max1 = number;
-                }
-
-                foreach (int number in arr)
-                {
-                    if (number > max2 && number < max1) max2 = number;
+                    if (arr[i] > max1)
+                    {
+                        max1 = arr[i];
+                        continue;
+                    }
+                    if (arr[i] > max2 && arr[i] <= max1) max2 = arr[i];
                 }
 
                 Console.WriteLine($"\tFirst maximum: {max1}\n\tSecond maximum: {max2}");
